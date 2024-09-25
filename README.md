@@ -1,7 +1,7 @@
 # Dashboard de Vendas
 
 Este projeto é um Dashboard interativo de vendas desenvolvido em Python, utilizando as bibliotecas pandas, Streamlit, Plotly Express, e JSON para análise e visualização de dados.
-obs: Dados fictícios
+Obs: Dados fictícios
 
 # Funcionalidades
     • Filtros interativos para Vendedores, Estados, Categoria de Produto e Produtos.
